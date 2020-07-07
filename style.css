@@ -109,4 +109,33 @@ h1{
     background-image: url(images/latest-work-bg.png);
     background-size: cover;
     background-position: center;
+    background-position: 20px bottom;
+    
+}
+.last-part{
+    text-align: center;
+}
+.box{
+    background-image: linear-gradient(rgb(240, 157, 2),rgb(226, 74, 19));
+    border-radius: 10px;
+    padding: 40px 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+#bio-color{
+    color: brown;
+}
+#latest-work{
+    color: rgb(224, 72, 16);
+}
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+    background-position: center;
+    position: relative;
+    left: 40px;
+    bottom: 30px;
 }
